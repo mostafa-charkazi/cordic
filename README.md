@@ -1,4 +1,2 @@
 # cordic
-Cordic algorithim to calculate Sine and Cosine
-
-Verilog description, Python and Matlab
+An implementation of the CORDIC algorithim to calculate Sine and Cosine in Verilog, Python and Matlab
